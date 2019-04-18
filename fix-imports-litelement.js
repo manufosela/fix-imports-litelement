@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { readFileSync, writeFileSync, readdirSync, statSync } = require('fs');
 const { extname, join } = require('path');
 

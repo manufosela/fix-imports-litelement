@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/manufosela/fix-imports-litelement.git"
   },
+  "bin":{
+    "fix-imports-litelement": "./fix-imports-litelement"
+  },
   "keywords": [],
   "author": "manufosela",
   "license": "MIT",

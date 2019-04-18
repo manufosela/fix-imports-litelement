@@ -1,6 +1,6 @@
 {
   "name": "fix-imports-litelement",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Fix imports from lit-element.js library, when you don't use polymer-cli or other \"magics\" server.",
   "main": "fix-imports-litelement.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/manufosela/fix-imports-litelement.git"
   },
   "bin":{
-    "fix-imports-litelement": "./fix-imports-litelement"
+    "fix-imports-litelement": "./fix-imports-litelement.js"
   },
   "keywords": [],
   "author": "manufosela",
